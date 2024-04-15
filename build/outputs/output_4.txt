@@ -1,0 +1,18 @@
+PART 1. Data
+
+   1) Rules:
+      R1: A -> L
+      R2: L -> K
+      R3: D -> A
+      R4: D -> M
+      R5: F,B -> Z
+      R6: C,D -> F
+      R7: A -> D
+   2) Facts A, B, C, 
+   3) Goal A
+
+PART 2: Trace
+     Goal already in facts. No path
+
+PART 3: Results
+   1) Goal A is already in facts. Empty path.

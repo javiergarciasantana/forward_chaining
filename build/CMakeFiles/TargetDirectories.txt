@@ -1,0 +1,3 @@
+/Users/javiersantana/VU_Files/Artificial Intelligence/Fordward Chaining/build/CMakeFiles/Fwd_Chaining.dir
+/Users/javiersantana/VU_Files/Artificial Intelligence/Fordward Chaining/build/CMakeFiles/edit_cache.dir
+/Users/javiersantana/VU_Files/Artificial Intelligence/Fordward Chaining/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+Javier Garcia Santana. Vilnius University, Software Engineering. 
+Test 2. 
+1) Rules
+Z G
+G A
+B A
+C B
+D C
+D Z
+
+2) Facts
+A
+
+3) Goal
+Z

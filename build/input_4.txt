@@ -1,0 +1,16 @@
+Javier Garcia Santana. Vilnius University, Software Engineering. 
+Test 4. Initial fact in the right hand side
+1) Rules
+L A
+K L
+A D
+M D
+Z F B
+F C D
+D A
+
+2) Facts
+A B C
+
+3) Goal
+A
